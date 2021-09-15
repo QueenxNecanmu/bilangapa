@@ -51,19 +51,19 @@ logo = """\033[1;93m█████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗
 \033[1;93m█ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
-\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96  +RaflyPakei+
+\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96  +Aditya Natsumi+
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
-\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mBrother•|Mr.RaflyPakei\033[1;93m          ║
-\033[1;93m║\033[1;96m* \033[1;93mYouTube  \033[1;93m : \033[1;93m\033[4mRafly pake i\033[0m \033[1;93m║
-\033[1;93m║\033[1;96m* \033[1;93mWhatsApp \033[1;93m: \033[1;93m082_290_232_340\033[1;93m                 ║
+\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mAditya Natsumi\033[1;93m          ║
+\033[1;93m║\033[1;96m* \033[1;93mTelegram  \033[1;93m : \033[1;93m\033[4mMinamiya\033[0m \033[1;93m║
+\033[1;93m║\033[1;96m* \033[1;93mFacebook \033[1;93m: \033[1;93mIzayoi Ayumi\033[1;93m                 ║
 \033[1;93m╚════════════════════════════════════════════╝"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk by rafly pake i \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk by Aditya Natsumi \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -77,13 +77,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 082290232340\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m      [¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN +USERNAME+:RAFLY +PASSWORD+:PAKEI\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS MUHAMMAD RAFLI\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : Rafly pake i\x1b[1;96m"""
+print  """\033[1;96m [¤] \x1b[1;93mHalo\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mTelegram : Minamiya\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mSELAMAT DATANG\x1b[1;96m      [¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN +USERNAME+:Aditya +PASSWORD+: yg mnta pasword Bisa WA\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mTOOLS Aditya Natsumi\x1b[1;96m  [¤] \x1b[1;93mFacebook  : Adiitya Qurniiawan\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "RAFLY"
-CorrectPassword = "PAKEI"
+CorrectUsername = "Aditya"
+CorrectPassword = "12345678ls"
 
 loop = 'true'
 while (loop == 'true'):
